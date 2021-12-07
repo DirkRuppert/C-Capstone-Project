@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/main.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/main.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/main.cpp"
+},
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/game.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/game.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/game.cpp"
+},
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/level.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/level.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/level.cpp"
+},
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/controller.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/controller.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/controller.cpp"
+},
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/renderer.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/renderer.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/renderer.cpp"
+},
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/player.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/player.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/player.cpp"
+},
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/map.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/map.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/map.cpp"
+},
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/ghost.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/ghost.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/ghost.cpp"
+},
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/gameObject.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/gameObject.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/gameObject.cpp"
+},
+{
+  "directory": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/dirk/development/projects/CppND-Capstone-Snake-Game/src  -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/updateHandler.cpp.o -c /home/dirk/development/projects/CppND-Capstone-Snake-Game/src/updateHandler.cpp",
+  "file": "/home/dirk/development/projects/CppND-Capstone-Snake-Game/src/updateHandler.cpp"
+}
+]
